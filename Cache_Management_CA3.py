@@ -1,5 +1,4 @@
 #Student name : Daniel Fox
-#Student ID: 201278002
 #COMP517 Assignment 3 - Cache Management
 
 requests=[]
